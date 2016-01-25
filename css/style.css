@@ -9,29 +9,12 @@ pre, code {
 
 header {
     background-color: #eee;
-    border-top: 5px solid #4900bf;
+    border-top: 5px solid #263575;
 }
 
 header .brand {
-    color: #4900bf;
+    color: #263575;
     font-size: 3em;
     text-shadow: 0.025em 0.025em 0 #eee,
                  0.05em  0.05em  0 #b5b5b5;
 }
-
-/*
-header .clicky-button {
-    background-color: #4900bf;
-    color: #eee;
-}
-
-header .clicky-button.active {
-    background-color: #6b22ff;
-}
-
-header .clicky-button:active,
-header .clicky-button:focus,
-header .clicky-button:hover {
-    background-color: #8d44ff;
-}
-*/
